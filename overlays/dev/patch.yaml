@@ -15,5 +15,3 @@ spec:
           limits:
             memory: "128Mi"
             cpu: "200m"
-
-  image: gcr.io/heptio-images/ks-guestbook-demo:invalid-tag
